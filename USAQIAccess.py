@@ -14,4 +14,15 @@ county: county (067 for Onadaga)
 site: site code (1015 for East Syracuse)
 
 document via https://aqs.epa.gov/aqsweb/documents/data_api.html#cbdate
+Parameter list: https://www.epa.gov/aqs/aqs-code-list
+Parameters of common compounds:
+O3          44201
+SO2         42401
+NO2         42602
+PM2.5       88101
+PM10        81102
+Benzene     45201
+CO          42101
+CO2         42102
+Acetone     43551
 '''
