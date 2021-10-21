@@ -39,4 +39,7 @@ New York        51000
 Return all sites in the county: https://aqs.epa.gov/data/api/list/sitesByCounty?email=jshen20@syr.edu&key=orangecrane46&state=36&county=067
 Common site codes:
 East Syracuse   1015
+
+NY Data
+http://www.nyaqinow.net/
 '''
