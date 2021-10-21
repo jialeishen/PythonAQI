@@ -16,13 +16,27 @@ site: site code (1015 for East Syracuse)
 document via https://aqs.epa.gov/aqsweb/documents/data_api.html#cbdate
 Parameter list: https://www.epa.gov/aqs/aqs-code-list
 Parameters of common compounds:
-O3          44201
-SO2         42401
-NO2         42602
-PM2.5       88101
-PM10        81102
-Benzene     45201
-CO          42101
-CO2         42102
-Acetone     43551
+O3            44201
+PM2.5         88101
+PM10          81102
+SO2           42401
+NO2           42602
+CO            42101
+CO2           42102
+Acetone       43551
+Formaldehyde  43502
+Acetaldehyde  43503
+Benzene       45201
+Toluene       45202
+
+City code: https://aqs.epa.gov/aqsweb/documents/codetables/cities.html
+Common city codes: 
+Syracuse        73000
+East Syracuse   23052
+North Syracuse  53660
+New York        51000
+
+Return all sites in the county: https://aqs.epa.gov/data/api/list/sitesByCounty?email=jshen20@syr.edu&key=orangecrane46&state=36&county=067
+Common site codes:
+East Syracuse   1015
 '''
